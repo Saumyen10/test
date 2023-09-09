@@ -1,5 +1,0 @@
-
-
-Name:  Saumyen Prateek Deka
-Skills: HTML, CSS, JavaScript, Python, Django, MySQL
-Email: saumyen45@gmail.com
